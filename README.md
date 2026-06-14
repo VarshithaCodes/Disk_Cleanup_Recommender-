@@ -54,6 +54,8 @@ Generate Cleanup Report
 
 🏗️ Architecture Overview
 
+
+
  <img width="421" height="637" alt="image" src="https://github.com/user-attachments/assets/4d1f421f-9c27-4551-8f93-47129d730d2b" />
 
 
@@ -63,6 +65,7 @@ The system follows a modular architecture where each component performs a dedica
 ---
 
 📁 Project Structure
+
 
 <img width="941" height="626" alt="image" src="https://github.com/user-attachments/assets/3c818fae-9d90-4184-bcac-82fdaf1a0eb7" />
 
@@ -126,47 +129,9 @@ Usage Steps
 
 📝 Sample Input
 
+<img width="181" height="492" alt="image" src="https://github.com/user-attachments/assets/74453dad-1161-430d-be00-52e3b255c825" />
 
-┌─────────────────────────┐
-│       sample_disk/      │
-│ ├─ old_log.txt          │
-│ ├─ cache.tmp            │
-│ ├─ temp_backup.zip      │
-│ ├─ project_report.pdf   │
-│ └─ notes.docx           │
-└─────────────┬───────────┘
-              │
-              ▼
-┌─────────────────────────┐
-│      Folder Scanner     │
-└─────────────┬───────────┘
-              │
-              ▼
-┌─────────────────────────┐
-│      AI Classifier      │
-└─────────────┬───────────┘
-              │
-              ▼
-┌─────────────────────────┐
-│    Safety Validator     │
-└─────────────┬───────────┘
-              │
-              ▼
-┌─────────────────────────┐
-│      User Approval      │
-└───────┬─────────┬───────┘
-        │         │
-        ▼         ▼
-┌─────────────┐ ┌─────────────┐
-│ Safe Mover  │ │   Report    │
-│             │ │ Generator   │
-└──────┬──────┘ └──────┬──────┘
-       │               │
-       ▼               ▼
-┌─────────────┐ ┌─────────────┐
-│  deleted/   │ │  outputs/   │
-└─────────────┘ └─────────────┘
----
+----
 
 📤 Sample Output
 
