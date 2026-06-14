@@ -1,4 +1,3 @@
-<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/8e1119b5-6edf-4c26-a4e3-c00e1f4f1202" />Disk Cleanup Recommender
 
 📌 Problem Statement
 
@@ -54,6 +53,7 @@ Generate Cleanup Report
 ---
 
 🏗️ Architecture Overview
+
  <img width="421" height="637" alt="image" src="https://github.com/user-attachments/assets/4d1f421f-9c27-4551-8f93-47129d730d2b" />
 
 
