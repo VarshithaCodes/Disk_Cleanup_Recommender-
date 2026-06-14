@@ -225,6 +225,7 @@ pytest tests/
 Expected output:
 
 ========================
+
 All tests passed
 
 ========================
