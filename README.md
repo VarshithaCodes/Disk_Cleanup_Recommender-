@@ -209,7 +209,9 @@ Reports include:
 - Cleanup action taken
 - Timestamp
 ![alt text](image.png)
-![alt text](image-1.png)
+
+<img width="1092" height="605" alt="image" src="https://github.com/user-attachments/assets/e1a2d171-52ce-4896-8628-077779d313c4" />
+
 ![alt text](image-2.png)
 
 ---
