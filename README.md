@@ -1,4 +1,4 @@
-Disk Cleanup Recommender
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/8e1119b5-6edf-4c26-a4e3-c00e1f4f1202" />Disk Cleanup Recommender
 
 📌 Problem Statement
 
@@ -14,7 +14,6 @@ G.Vyshnavi| AI Integration
 G.Harshitha| UI & Testing
 G.Gouri| Documentation & Reporting
 
-«Replace the placeholders above with your actual team member names.»
 
 ---
 
@@ -55,45 +54,9 @@ Generate Cleanup Report
 ---
 
 🏗️ Architecture Overview
+ <img width="421" height="637" alt="image" src="https://github.com/user-attachments/assets/4d1f421f-9c27-4551-8f93-47129d730d2b" />
 
-┌─────────────────┐
-│   Streamlit UI  │
-└────────┬────────┘
-         │
-         ▼
-┌─────────────────┐
-│ Folder Scanner  │
-└────────┬────────┘
-         │
-         ▼
-┌─────────────────┐
-│ Metadata Reader │
-└────────┬────────┘
-         │
-         ▼
-┌─────────────────┐
-│ Gemini AI Model │
-└────────┬────────┘
-         │
-         ▼
-┌─────────────────┐
-│ Safety Validator│
-└────────┬────────┘
-         │
-         ▼
-┌─────────────────┐
-│ User Approval   │
-└────────┬────────┘
-         │
-         ▼
-┌─────────────────┐
-│ Safe File Mover │
-└────────┬────────┘
-         │
-         ▼
-┌─────────────────┐
-│ Report Generator│
-└─────────────────┘
+
 
 The system follows a modular architecture where each component performs a dedicated responsibility. AI recommendations are always verified by safety rules and require user approval before any cleanup action is performed.
 
