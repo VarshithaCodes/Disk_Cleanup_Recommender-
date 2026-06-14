@@ -8,7 +8,7 @@ Modern computers accumulate temporary, duplicate, obsolete, and unused files ove
 👥 Team Members
 
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/94117b82-975f-4253-85e0-16bb81776f03" />
+<img width="532" height="327" alt="image" src="https://github.com/user-attachments/assets/cc260791-95d3-4a9d-817b-19aa3c677e37" />
 
 
 ---
