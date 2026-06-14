@@ -7,11 +7,8 @@ Modern computers accumulate temporary, duplicate, obsolete, and unused files ove
 
 👥 Team Members
 
-Name| Role
-G.Varshitha| Developer
-G.Vyshnavi| AI Integration
-G.Harshitha| UI & Testing
-G.Gouri| Documentation & Reporting
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/94117b82-975f-4253-85e0-16bb81776f03" />
 
 
 ---
@@ -210,7 +207,9 @@ Reports include:
 - Timestamp
 ![alt text](image.png)
 
+
 <img width="1092" height="605" alt="image" src="https://github.com/user-attachments/assets/e1a2d171-52ce-4896-8628-077779d313c4" />
+
 
 ![alt text](image-2.png)
 
