@@ -266,8 +266,7 @@ This hybrid approach improves accuracy while maintaining user control and safety
 
 Project Demo Video:
 
-https://drive.google.com/file/d/1n_q-XZE8qYq5JkJukIOLQjJI1HKYnX72/view?usp=drivesdk
-
+https://drive.google.com/file/d/1WWA3wzaj8MEjSeK3c9mwp6kSFyfwaytR/view?usp=drive_link
 
 ---
 
