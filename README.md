@@ -64,29 +64,7 @@ The system follows a modular architecture where each component performs a dedica
 
 📁 Project Structure
 
-disk-cleanup-recommender/
-│
-├── app.py                      # Main Streamlit application
-│
-├── src/
-│   ├── scanner.py              # Folder scanning
-│   ├── classifier.py           # AI classification
-│   ├── safety.py               # Safety validation
-│   ├── deleter.py              # Safe file movement
-│   ├── report_generator.py     # Report generation
-│   └── discord_bot.py          # Optional Discord approval bot
-│
-├── data/
-│   └── sample_disk/            # Sample test files
-│
-├── outputs/                    # Generated reports
-│
-├── deleted/                    # Safely moved files
-│
-├── tests/                      # Unit tests
-│
-├── requirements.txt
-└── README.md
+<img width="941" height="626" alt="image" src="https://github.com/user-attachments/assets/3c818fae-9d90-4184-bcac-82fdaf1a0eb7" />
 
 ---
 
@@ -108,10 +86,9 @@ Version Control| Git & GitHub
 
 1. Clone the Repository
 
-git clone https://github.com/your-username/disk-cleanup-recommender.git
-cd disk-cleanup-recommender
-
-2. Install Dependencies
+   https://github.com/VarshithaCodes/Disk_Cleanup_Recommender-
+   
+3. Install Dependencies
 
 pip install -r requirements.txt
 
