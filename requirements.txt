@@ -1,0 +1,4 @@
+streamlit>=1.32.0
+google-genai>=0.3.0
+discord.py>=2.3.0
+pytest>=7.4.0

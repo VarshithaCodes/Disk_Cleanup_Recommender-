@@ -1,0 +1,7 @@
+path,size_mb,age_days,classification,reason,action,moved_to
+data/sample_disk\backups\backup_2023.zip,5.0,0,KEEP,"No rule matched; keeping by default (AI call failed, used fallback: name 'API_KEY' is not defined)",NONE,
+data/sample_disk\documents\report.pdf,0.0,0,KEEP,"No rule matched; keeping by default (AI call failed, used fallback: name 'API_KEY' is not defined)",NONE,
+data/sample_disk\logs\app.log,0.0,0,REVIEW,".log file but only 0 days old (AI call failed, used fallback: name 'API_KEY' is not defined)",NONE,
+data/sample_disk\logs\old.log,0.0,0,REVIEW,".log file but only 0 days old (AI call failed, used fallback: name 'API_KEY' is not defined)",NONE,
+data/sample_disk\temp\temp1.tmp,1.0,0,REVIEW,".tmp file but only 0 days old (AI call failed, used fallback: name 'API_KEY' is not defined)",NONE,
+data/sample_disk\temp\temp2.tmp,2.0,0,REVIEW,".tmp file but only 0 days old (AI call failed, used fallback: name 'API_KEY' is not defined)",NONE,
