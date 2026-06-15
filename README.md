@@ -14,8 +14,7 @@ Resume Links:
 
 G.Varshitha :   https://drive.google.com/file/d/136Il3JyeTnWWQ4PRc6uNfHEWdjt7jpR3/view?usp=drivesdk
 
-G.Harsitha  :   
-https://docs.google.com/document/d/1ucUwCSN2j1Qeim5_i5L6eo61Jk1FmiNW/edit?usp=drivesdk&ouid=117859208415513272566&rtpof=true&sd=true
+G.Harsitha  :   https://drive.google.com/file/d/1UDJEv9w8P8WsdYFK_mlugUF1B-cASwHY/view?usp=drivesdk
 
 G.Gouri     : https://1drv.ms/b/c/8896611E0B36F856/IQDGX5DUrIDtRoG7i7kIuWk7AS4C4L11ZrMUIJJ0un695co
 
